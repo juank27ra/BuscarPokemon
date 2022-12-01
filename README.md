@@ -21,6 +21,7 @@ asi se ve antes de la búsqueda
 
 
 en la busqueda por numero del Pokemon
+
 ![image](https://user-images.githubusercontent.com/96093773/204944250-273fd0de-3720-4f72-9448-4af394d59be4.png)
 
 en la busqueda por nombre 
