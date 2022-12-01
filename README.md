@@ -8,11 +8,11 @@ pantalla los siguientes datos: Nombre, número, tipo, peso, altura y una imágen
 
 Para poder ejecutar tener en cuenta:
 
-El proyecto tiene una carpeta llamada pokeapi, donde debemos ubicarnos en consola
+El proyecto Está una carpeta llamada pokeapi, donde debemos ubicarnos en consola
 
 Primero hay que instalar las dependencias con el comando npm Install, para generar la carpeta node.modules
 
-Posteriormente para ejecutarlo escribimos el comando "npm start"# BuscarPokemon
+Posteriormente para ejecutarlo escribimos el comando "npm start"
 
 
 asi se ve antes de la búsqueda 
